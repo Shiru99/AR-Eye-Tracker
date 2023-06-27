@@ -2,7 +2,7 @@
 
 This project demonstrates eye gaze tracking on a mobile screen using the front camera and ARKit's ARFaceAnchor feature. By utilizing ARFaceAnchor and the lookAtPoint property, we can accurately determine the user's eye gaze direction on their device's screen.
 
-[<img src="Assets/Eye-Tracker.gif">](https://youtu.be/cjR-mREOJCQ)
+[<img src="Assets/EyeTracker.gif">](https://youtu.be/cjR-mREOJCQ)
 
 ## Prerequisites
 
@@ -33,5 +33,5 @@ For any inquiries or suggestions, please feel free to reach out to [Shiru99](htt
 
 ## YT Demo
 
-[<img src="Assets/Eye-Tracker.png">](https://youtu.be/cjR-mREOJCQ)
+[<img src="Assets/EyeTracker.png">](https://youtu.be/cjR-mREOJCQ)
 
